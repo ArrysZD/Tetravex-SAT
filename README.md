@@ -59,4 +59,4 @@ python3 interface.py
 - et la solution SAT depuis `result.sat`
 
 ### **Auteurs**
-[https://github.com/RacimZz] - Augustin MANIAK - Arris ZAIDI
+[Racim ZENATI](https://github.com/RacimZz) - Augustin MANIAK - Arris ZAIDI
